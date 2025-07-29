@@ -19,5 +19,5 @@ Feel free to explore the repository, provide feedback, or connect with me for fu
 
 For any inquiries or collaborations, feel free to reach out:
 
-- Email: [daksh22222@gmail.com](mailto:daksh22222@gmail.com)
-- LinkedIn: [Daksh Tyagi](https://www.linkedin.com/in/daksh-tyagi/)
+- <a href="https://www.linkedin.com/in/roshan-kumar-a50776370">Roshan Kumar(LinkedIn)</a>
+- Email: roshankr482@gmail.com
